@@ -1,4 +1,4 @@
-name: ci
+name: lola-text 
 on:
   pull_request:
     paths:
